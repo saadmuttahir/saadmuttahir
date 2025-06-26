@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saadmuttahirshah@gmail.com**
 
-- 📫 Thats my poetfolio **https://saadmuttahirportfolio.netlify.app/
+- 📫 Thats my poetfolio https://saadmuttahirportfolio.netlify.app/
 
 - ⚡ Fun fact **Good Communication Skills**
 
