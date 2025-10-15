@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Saylani Mass IT Training Program (SMIT)**
 
-- 💬 Ask me about **Html CSS Bootstrap Javascript**
+- 💬 Ask me about **Html CSS Bootstrap Javascript React.JS Supabase Firebase Express.JS**
 
 - 📫 How to reach me **saadmuttahirshah@gmail.com**
 
 - 📫 Thats my portfolio https://saadmuttahirportfolio.netlify.app/
 
-- ⚡ Fun fact **Good Communication Skills**
+- ⚡ Fun fact **Good Communication Skills **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
